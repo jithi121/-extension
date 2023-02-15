@@ -1,7 +1,7 @@
 {
     "manifest_version": 3,
     "name": "changecases",
-    "description": "Enable focus mode on Chrome's official Extensions and Chrome Web Store documentation.",
+    "description": "Enables user to select a text and press Alt + Z, and Alt + X to make it change case.",
     "version": "1.0",
     "icons": {
         "16": "images/icon-16.png",
@@ -28,7 +28,15 @@
             "mac": "Command+B"
           }
         }
-      }
+      },
+      "content_scripts": [
+        {
+          "js": ["content.js"],
+          "matches": [
+            "https://developer.chrome.com/docs/extensions/*",
+            "https://developer.chrome.com/docs/webstore/*"
+          ]
+        }]
     
 
 
