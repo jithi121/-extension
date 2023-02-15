@@ -14,10 +14,10 @@
     },
     "action": {
         "default_icon": {
-          "16": "images/",
-          "32": "images/icon-32.png",
-          "48": "images/icon-48.png",
-          "128": "images/icon-128.png"
+          "16": "images/icons8-system-task-16-dark.png",
+          "32": "images/icons8-system-task-32-dark.png",
+          "48": "images/icons8-system-task-48-dark.png",
+          "128": "images/icons8-system-task-64-dark.png"
         }
       },
       "permissions": ["activeTab","scripting"],
