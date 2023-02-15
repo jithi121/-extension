@@ -36,3 +36,8 @@ chrome.action.onClicked.addListener(async (tab) => {
     }
   });
   
+
+
+  //developer.chrome.com/docs/extensions/mv3/getstarted/tut-focus-mode/
+  //https://developer.chrome.com/docs/extensions/mv3/
+  //https://developer.chrome.com/docs/extensions/mv3/
