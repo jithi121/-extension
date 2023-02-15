@@ -23,3 +23,8 @@ if (article) {
 
 
 //https://developer.chrome.com/docs/extensions/mv3/getstarted/tut-reading-time/
+
+// // works on these sites
+// // https://developer.chrome.com/docs/extensions/mv3/
+// // https://developer.chrome.com/docs/webstore/publish/
+// https://developer.chrome.com/docs/extensions/mv3/content_scripts/
