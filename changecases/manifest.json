@@ -9,9 +9,6 @@
         "48": "images/icons8-system-task-48-dark.png",
         "128": "images/icons8-system-task-64-dark.png"
     },
-    "background": {
-        "service_worker": "background.js"
-    },
     "action": {
         "default_icon": {
           "16": "images/icons8-system-task-16-dark.png",
